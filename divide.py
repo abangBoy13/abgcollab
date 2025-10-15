@@ -1,2 +1,5 @@
 def div (x,y):
-    return x/y
+    if b != 0:
+        return a / b
+    else:
+        return "Error: Division by zero"
